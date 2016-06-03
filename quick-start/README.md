@@ -7,8 +7,7 @@ Quick Start is a single-page web application that is deployed in an embedded Tom
 
 ## Build and deploy the web app via command line
 - run ```gradle build```
-- run ```java -jar build/libs/quick-start-0.1.0.war``` (or whatever the current version is in /build/libs/)
-
+- run ```java -jar build/libs/quick-start-0.1.0.jar``` (or whatever the current version is in /build/libs/)
 
 ## To pass properties to the app, either do the following (in order of priority):
 - Add environment.properties in the quick-start directory with the following properties:
